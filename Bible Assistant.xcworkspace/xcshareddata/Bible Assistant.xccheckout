@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9E0EB6D0-C791-4D89-93D2-4581145CD1B8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Bible Assistant</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C2EC2055-ABC6-4677-95E6-0C3B486CC1CC</key>
+		<string>https://github.com/sany620/Bible-Assistant-master.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Bible Assistant.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C2EC2055-ABC6-4677-95E6-0C3B486CC1CC</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/sany620/Bible-Assistant-master.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C2EC2055-ABC6-4677-95E6-0C3B486CC1CC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C2EC2055-ABC6-4677-95E6-0C3B486CC1CC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Bible-Assistant-master</string>
+		</dict>
+	</array>
+</dict>
+</plist>
